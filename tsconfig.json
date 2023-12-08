@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "plugins": [
+            { "transform": "./transform.ts" }
+        ],
+        "lib": [
+            "ES2015",
+            "dom",
+        ]
+    },
+}
